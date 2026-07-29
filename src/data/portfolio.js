@@ -37,7 +37,7 @@ export const PORTFOLIO_DATA = {
       id: 1,
       title: "College Dress Marketplace",
       description: "A dedicated e-commerce platform for college students to buy and sell essential academic wear. Features hyper-local filtering to isolate the marketplace based on the user's registered college.",
-      techStack: ["React", "Node.js", "Tailwind CSS", "Socket.io"],
+      techStack: ["React", "Node.js",, "MongoDB", "Tailwind CSS", "Socket.io"],
       link: "https://collegedress1.netlify.app/",
       github: "https://github.com/Irshad-dude/College-Dress-Marketplace.git",
       image: "/projects/1.png"
@@ -55,7 +55,7 @@ export const PORTFOLIO_DATA = {
       id: 3,
       title: "Job Automation Agent",
       description: "An AI-powered tool that automates applying to LinkedIn 'Easy Apply' jobs. Uses NLP to parse form questions and injects optimal answers based on a provided master resume and user parameters.",
-      techStack: ["Python", "Selenium", "OpenAI API", "Pandas"],
+      techStack: ["JavaScript (ES6+)", "Selenium", "AI & Orchestration", "Chrome Extension APIs "],
       link: "https://github.com/Irshad-dude/Job-agent",
       github: "https://github.com/Irshad-dude/Job-agent",
       image: "/projects/3.png"
