@@ -39,7 +39,7 @@ export const PORTFOLIO_DATA = {
       description: "A dedicated e-commerce platform for college students to buy and sell essential academic wear. Features hyper-local filtering to isolate the marketplace based on the user's registered college.",
       techStack: ["React", "Node.js", "Tailwind CSS", "Socket.io"],
       link: "https://collegedress1.netlify.app/",
-      github: "#",
+      github: "https://github.com/Irshad-dude/College-Dress-Marketplace.git",
       image: "/projects/1.png"
     },
     {
@@ -48,7 +48,7 @@ export const PORTFOLIO_DATA = {
       description: "A professional corporate website showcasing construction company expertise across multiple sectors. Engineered with a dynamic admin panel for real-time project management and secure data handling.",
       techStack: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
       link: "https://metamaxconstruction.com/",
-      github: "#",
+      github: "https://github.com/Irshad-dude/Metamax-Constrution.git",
       image: "/projects/2.png"
     },
     {
@@ -66,7 +66,7 @@ export const PORTFOLIO_DATA = {
       description: "Forex trading platform featuring optimized image storage and global CDN delivery via Cloudinary, cutting load times by ~35%. Includes real-time updates and interactive market analysis components.",
       techStack: ["React", "Node.js", "Cloudinary"],
       link: "https://www.tradewithirsh.in/",
-      github: "#",
+      github: "https://github.com/Irshad-dude/Irshad-Trade-Portfolio.git",
       image: "/projects/4.png"
     },
     {
@@ -77,6 +77,15 @@ export const PORTFOLIO_DATA = {
       link: "https://ir-01.netlify.app/",
       github: "#",
       image: "/projects/5.png"
+    },
+    {
+      id: 6,
+      title: "Zara UI Clone (Currently Building)",
+      description: "A meticulously crafted e-commerce frontend clone inspired by Zara. Currently in active development, focusing on building a highly responsive and custom design architecture to allow users to intuitively navigate fashion collections and promotional campaigns.",
+      techStack: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
+      link: "https://zara32.netlify.app/",
+      github: "https://github.com/Irshad-dude/Zara-Clone.git",
+      image: "/projects/6.png"
     }
   ],
   education: {
