@@ -20,9 +20,9 @@ function CodeCard({ data }) {
   const fields = [
     { key: 'name',      val: `"${data.name}"`,         color: '#a1a1aa' },
     { key: 'role',      val: `"Software Engineer"`,     color: '#a1a1aa' },
-    { key: 'location',  val: `"${data.location}"`,      color: '#a1a1aa' },
+    { key: 'location',  val: `"New Delhi"`,      color: '#a1a1aa' },
     { key: 'education', val: `"B.Tech CSE • 2027"`,     color: '#a1a1aa' },
-    { key: 'gpa',       val: `"8.5 / 10"`,              color: '#71717a' },
+    { key: 'cgpa',       val: `"8.5 / 10"`,              color: '#71717a' },
     { key: 'stack',     val: `["React","Node","Java"]`, color: '#a1a1aa' },
     { key: 'openToWork', val: 'true',                   color: '#d4d4d8' },
   ];
