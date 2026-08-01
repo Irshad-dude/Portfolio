@@ -92,7 +92,7 @@ export const PORTFOLIO_DATA = {
     institution: "Geetanjali Institute of Technical Studies, Udaipur",
     degree: "Bachelor of Technology (B.Tech) in Computer Science & Engineering",
     period: "2023 – 2027",
-    gpa: "CGPA: 8.5"
+    cgpa: "CGPA: 8.5"
   },
   achievements: [
     "300+ coding problems solved on LeetCode",
